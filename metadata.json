@@ -1,0 +1,5 @@
+{
+  "name": "AI CV Builder",
+  "description": "A CV Builder App inspired by Europass, where users can create professional CVs with customizable templates and AI assistance. This app helps you build, edit, and export your CV with ease.",
+  "requestFramePermissions": []
+}
